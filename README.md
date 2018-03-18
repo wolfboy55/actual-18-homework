@@ -28,8 +28,8 @@
 
 ```
 第一次使用
-git clone git@github.com:51reboot/actual-17-homework.git
-cd actual-17-homework
+git clone git@github.com:51reboot/actual-18-homework.git
+cd actual-18-homework
 mkdir panda
 echo  print 123 >> woniu/zuoye.py
 git add .
