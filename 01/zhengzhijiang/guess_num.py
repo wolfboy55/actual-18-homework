@@ -12,6 +12,11 @@ while i < 5:
     if int(input_num) == random_num:
         print ('Congratulations!!!')
         break
+    else:
+        if int(input_num) > random_num:
+            print ('2 big, continue!!!')
+        else:
+            print ('2 small, continue!!!')
     i += 1
 
 if 5 == i:
